@@ -8,4 +8,5 @@ else:
     print('wpisałeś cyfrę')
     
 print('test branch checkout')
+print('')
 
