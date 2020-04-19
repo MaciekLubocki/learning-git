@@ -9,4 +9,7 @@ else:
     
 print('test branch checkout')
 print('')
+print('test branch checkout')
+print('test branch checkout')
+print('test branch checkout')
 
